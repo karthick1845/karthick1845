@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthickraja Chandrasekar</h1>
-<h3 align="center">AI enthusiast, who want to put her work with creating a new AI world...</h3>
+<h3 align="center">AI enthusiast, who want to put her work with creating a new AI world 👁‍🗨 </h3>
 
 - 🔭 I’m currently working on **Deep learning Projects**
 
